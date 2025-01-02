@@ -1,0 +1,35 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/shubho0908/Amazon-clone.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+[remote "start"]
+	url = https://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/start/*
+[remote "ori"]
+	url = https://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/ori/*
+[remote "orig"]
+	url = git remote add origin https://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/orig/*
+[remote "confirm"]
+	url = git remote add originhttps://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/confirm/*
+[remote "con"]
+	url = git remote add origin https://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/con/*
+[remote "conf"]
+	url = https://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/conf/*
+[remote "ok"]
+	url = https://github.com/Ayushraj454/Amazon_clone.git
+	fetch = +refs/heads/*:refs/remotes/ok/*

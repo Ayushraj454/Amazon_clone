@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+e1b9152a60f21c2f01e6de2555cfef0a54fdac9e refs/remotes/origin/dependabot/npm_and_yarn/braces-3.0.3
+c5f085d1c01445ff1cf9ea167b60811b87a0d579 refs/remotes/origin/dependabot/npm_and_yarn/micromatch-4.0.8
+965160a2290e756dd64460bdd1cb32f8bec4c10c refs/remotes/origin/dependabot/npm_and_yarn/multi-6365d02c7e
+34aaa1621f5816645887e2ab88ea9b8802537fd9 refs/remotes/origin/dependabot/npm_and_yarn/webpack-5.94.0
+b5200ce468d169f27d9aaf8680d0e9df5be81344 refs/remotes/origin/main
